@@ -107,3 +107,10 @@ This pipeline will:
     $$\text{Action Density} = \frac{\text{Action Lines}}{\text{Total Scene Lines}}$$
 *   **Speaker Switch Rate:**
     $$\text{Switch Rate} = \frac{\text{Speaker Switches}}{\text{Total Speaking Turns}}$$
+
+---
+
+## ✍️ Author
+
+*   **Ronit** - *Lead ML Developer* - [@RonitM2k06](https://github.com/RonitM2k06)
+
