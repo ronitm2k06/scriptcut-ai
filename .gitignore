@@ -1,0 +1,27 @@
+# Python interpreter caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Large media files (strictly ignored to prevent pushing past GitHub's 100MB file limit)
+*.mp4
+*.mov
+*.avi
+*.mkv
+data/raw_movies/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# IDE and Notebook Caches
+.vscode/
+.idea/
+.ipynb_checkpoints/
