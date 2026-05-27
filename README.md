@@ -112,5 +112,4 @@ This pipeline will:
 
 ## ✍️ Author
 
-*   **Ronit** - *Lead ML Developer* - [@RonitM2k06](https://github.com/RonitM2k06)
-
+*   **Ronit Mongia**
